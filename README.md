@@ -5,11 +5,11 @@
 - 📫 Reach me @vivekrana.2012@gmail.com
 - :soccer: Liverpool YNWA - :nerd_face::nerd_face: kloppo :nerd_face::nerd_face:
 
-<a target="_blank" href="https://vivekrana-2012.medium.com/agile-the-developer-breaker-59f24f7bec"><img src="https://vivekrana-2012.medium.com/agile-the-developer-breaker-59f24f7bec" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vivekrana-2012/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vivekrana-2012/0" alt="Recent Article 0">
 
-<a target="_blank" href="https://vivekrana-2012.medium.com/radiant-order-of-coders-a1e3815481e8"><img src="https://vivekrana-2012.medium.com/radiant-order-of-coders-a1e3815481e8" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vivekrana-2012/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vivekrana-2012/1" alt="Recent Article 1">
   
-<a target="_blank" href="https://vivekrana-2012.medium.com/good-at-one-thing-161f378ad6d2"><img src="https://vivekrana-2012.medium.com/good-at-one-thing-161f378ad6d2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vivekrana-2012/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vivekrana-2012/2" alt="Recent Article 2">
   
 <!---
 vivekrana2012/vivekrana2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
