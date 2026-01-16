@@ -1,12 +1,13 @@
 - 👋 Hello, I’m Vivek - aka [NoobSlayer] [while(true)]
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on DS Algos, DDD and System Design (Doubts, Discussions and Opinions).
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate on anything that you are passinate about.
 - 📫 Reach me @vivekrana.2012@gmail.com
 - :soccer: Liverpool YNWA - :nerd_face::nerd_face: kloppo :nerd_face::nerd_face:
 - Favourite List
     - books 
         - Heroes by Joe Abercrombe 
-        - Way of Kings by Brandan Sanderson.
+        - Way of Kings by Brandan Sanderson
+        - Notes from the underground by Fyodor Dostoevsky
     - movies
         - Lord of the Rings
         - The Dark Knight
@@ -18,11 +19,8 @@
         - Rick and Morty
         - Arcane
         - Kobra Kai
-     - Games
-        - Dota2
-        - Fifa
-        - Football Manager
-        - Civilization
+        - True Detective
+        - Stranger Things [1,2 & 4]
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vivekrana-2012/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vivekrana-2012/2" alt="Recent Article 0">
 
