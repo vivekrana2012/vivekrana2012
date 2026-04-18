@@ -1,6 +1,7 @@
 - 👋 Hello, I’m Vivek - aka [NoobSlayer] [while(true)]
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on anything that you are passinate about.
+- ✊ #SmallFirst #EngineeringFirst #LocalFirst #ProductFirst #
 - 📫 Reach me @vivekrana.2012@gmail.com
 - :soccer: Liverpool YNWA - :nerd_face::nerd_face: kloppo :nerd_face::nerd_face:
 - Favourite List
